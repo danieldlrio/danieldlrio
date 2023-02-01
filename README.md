@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### My name is Daniel Del Rio and I'm an Electrical Engineering Master's student at CSULA.
+
+#### Coding/Programming is a lot of fun to me so I try to take up as many courses on the topic as I can. My favorite language to use at the moment is C. Its tedious to some but I think that's why I enjoy it. When I'm not working on anything programming related, I'll probably be playing games. 
 <!--
 **danieldlrio/danieldlrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
